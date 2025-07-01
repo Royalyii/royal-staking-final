@@ -1,1 +1,0 @@
-// Entry point for Royal Staking app
